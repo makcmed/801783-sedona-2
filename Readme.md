@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Максим М](https://up.htmlacademy.ru/htmlcss-individual/2/user/801783).
+* Студент: [Максим Медведев](https://up.htmlacademy.ru/htmlcss-individual/2/user/801783).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
 
 ---
