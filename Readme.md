@@ -2,6 +2,7 @@
 
 * Студент: [Максим Медведев](https://up.htmlacademy.ru/htmlcss-individual/2/user/801783).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт: [Мой проект Седона](https://makcmed.github.io/801783-sedona-2/).
 
 ---
 
